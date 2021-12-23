@@ -1,8 +1,0 @@
-name = "photo-search-tool"
-type = "javascript"
-
-account_id = "757f609aa663befeba8b93c072a2992e"
-workers_dev = true
-route = ""
-zone_id = ""
-compatibility_date = "2021-12-23"
